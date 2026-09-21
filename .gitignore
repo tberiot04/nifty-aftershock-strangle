@@ -1,0 +1,23 @@
+# Raw market data is supplied separately and should not be committed.
+data/raw/
+
+# Generated caches can be rebuilt from the supplied archives.
+data/processed/
+deliverables/notebook_outputs/nifty_spot_1min.csv.gz
+
+# Large source archives and local/generated files.
+*.zip
+*.docx
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+~$*.docx
+.tmp.driveupload/
+
+# Local research outputs and repository-building utilities.
+data/
+/audit_nifty_data.py
+scripts/build_notebook.py
+scripts/build_report.py
+scripts/execute_notebook.py

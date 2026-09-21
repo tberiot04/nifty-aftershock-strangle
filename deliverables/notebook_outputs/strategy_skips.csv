@@ -1,0 +1,76 @@
+mode,expiry,archive,reason,detail
+filtered,2024-01-04,20240104.zip,insufficient_calendar_history,
+filtered,2024-01-11,20240111.zip,insufficient_feature_history,
+filtered,2024-01-18,20240118.zip,insufficient_feature_history,
+filtered,2024-01-25,20240125.zip,insufficient_feature_history,
+filtered,2024-02-01,20240201.zip,insufficient_feature_history,
+filtered,2024-02-29,20240229.zip,vrp_filter,1.154478 > 1.000000
+filtered,2024-03-07,20240307.zip,vrp_filter,1.430368 > 1.000000
+filtered,2024-03-14,20240314.zip,vrp_filter,1.084366 > 1.000000
+filtered,2024-03-21,20240321.zip,vrp_filter,1.125965 > 1.000000
+filtered,2024-03-28,20240328.zip,vrp_filter,1.055903 > 1.000000
+filtered,2024-04-04,20240404.zip,vrp_filter,1.040035 > 1.000000
+filtered,2024-04-10,20240410.zip,vrp_filter,1.066118 > 1.000000
+filtered,2024-04-18,20240418.zip,vrp_filter,1.109476 > 1.000000
+filtered,2024-04-25,20240425.zip,vrp_filter,1.385732 > 1.000000
+filtered,2024-05-02,20240502.zip,vrp_filter,1.317337 > 1.000000
+filtered,2024-05-09,20240509.zip,vrp_filter,1.251935 > 1.000000
+filtered,2024-05-16,20240516.zip,vrp_filter,1.475407 > 1.000000
+filtered,2024-05-23,20240523.zip,vrp_filter,1.349506 > 1.000000
+filtered,2024-05-30,20240530.zip,vrp_filter,1.372843 > 1.000000
+filtered,2024-06-06,20240606.zip,vrp_filter,3.311348 > 1.000000
+filtered,2024-07-18,20240718.zip,vrp_filter,1.758843 > 1.000000
+filtered,2024-07-25,20240725.zip,vrp_filter,2.677830 > 1.000000
+filtered,2024-08-01,20240801.zip,vrp_filter,1.585606 > 1.000000
+filtered,2024-08-08,20240808.zip,vrp_filter,1.210510 > 1.000000
+filtered,2024-08-14,20240814.zip,vrp_filter,1.120005 > 1.000000
+filtered,2024-09-12,20240912.zip,vrp_filter,1.068175 > 1.000000
+filtered,2024-09-19,20240919.zip,vrp_filter,1.236920 > 1.000000
+filtered,2024-09-26,20240926.zip,vrp_filter,1.484125 > 1.000000
+filtered,2024-10-03,20241003.zip,vrp_filter,1.284918 > 1.000000
+filtered,2024-10-10,20241010.zip,vrp_filter,1.240251 > 1.000000
+filtered,2024-10-31,20241031.zip,vrp_filter,1.001704 > 1.000000
+filtered,2024-11-07,20241107.zip,vrp_filter,1.618918 > 1.000000
+filtered,2024-11-14,20241114.zip,vrp_filter,1.308996 > 1.000000
+filtered,2024-11-21,20241121.zip,vrp_filter,1.237818 > 1.000000
+filtered,2024-11-28,20241128.zip,vrp_filter,1.338199 > 1.000000
+filtered,2024-12-12,20241212.zip,vrp_filter,1.030746 > 1.000000
+filtered,2024-12-26,20241226.zip,vrp_filter,1.218573 > 1.000000
+filtered,2025-01-02,20250102.zip,vrp_filter,1.153954 > 1.000000
+filtered,2025-01-09,20250109.zip,vrp_filter,1.284305 > 1.000000
+filtered,2025-01-16,20250116.zip,vrp_filter,1.054111 > 1.000000
+filtered,2025-01-23,20250123.zip,vrp_filter,1.093279 > 1.000000
+filtered,2025-01-30,20250130.zip,vrp_filter,1.145831 > 1.000000
+filtered,2025-02-06,20250206.zip,vrp_filter,1.566406 > 1.000000
+filtered,2025-02-13,20250213.zip,vrp_filter,1.118476 > 1.000000
+filtered,2025-02-20,20250220.zip,vrp_filter,1.130909 > 1.000000
+filtered,2025-02-27,20250227.zip,vrp_filter,1.260259 > 1.000000
+filtered,2025-03-06,20250306.zip,vrp_filter,1.263365 > 1.000000
+filtered,2025-03-13,20250313.zip,vrp_filter,1.221331 > 1.000000
+filtered,2025-03-20,20250320.zip,vrp_filter,1.042674 > 1.000000
+filtered,2025-04-09,20250409.zip,vrp_filter,1.027764 > 1.000000
+filtered,2025-04-17,20250417.zip,vrp_filter,1.564224 > 1.000000
+filtered,2025-05-15,20250515.zip,vrp_filter,1.011372 > 1.000000
+filtered,2025-06-19,20250619.zip,vrp_filter,1.220323 > 1.000000
+filtered,2025-06-26,20250626.zip,vrp_filter,1.428103 > 1.000000
+filtered,2025-07-03,20250703.zip,vrp_filter,1.209622 > 1.000000
+filtered,2025-07-10,20250710.zip,vrp_filter,1.083980 > 1.000000
+filtered,2025-07-17,20250717.zip,vrp_filter,1.022575 > 1.000000
+filtered,2025-07-24,20250724.zip,vrp_filter,1.067293 > 1.000000
+filtered,2025-07-31,20250731.zip,vrp_filter,1.181624 > 1.000000
+filtered,2025-08-07,20250807.zip,vrp_filter,1.534799 > 1.000000
+filtered,2025-08-14,20250814.zip,vrp_filter,1.228153 > 1.000000
+filtered,2025-08-21,20250821.zip,vrp_filter,1.281347 > 1.000000
+filtered,2025-08-28,20250828.zip,vrp_filter,1.013173 > 1.000000
+filtered,2025-09-02,20250902.zip,vrp_filter,1.143549 > 1.000000
+filtered,2025-09-23,20250923.zip,vrp_filter,1.052608 > 1.000000
+filtered,2025-09-25,20250925.zip,no_contemporaneous_atm_pair,
+filtered,2025-09-30,20250930.zip,vrp_filter,1.385737 > 1.000000
+filtered,2025-10-07,20251007.zip,vrp_filter,1.602029 > 1.000000
+filtered,2025-10-14,20251014.zip,vrp_filter,1.057492 > 1.000000
+filtered,2025-10-20,20251020.zip,vrp_filter,1.357669 > 1.000000
+filtered,2025-10-28,20251028.zip,vrp_filter,1.292698 > 1.000000
+filtered,2025-11-04,20251104.zip,vrp_filter,1.358392 > 1.000000
+filtered,2025-11-11,20251111.zip,vrp_filter,1.724348 > 1.000000
+filtered,2025-11-18,20251118.zip,vrp_filter,1.329627 > 1.000000
+filtered,2025-11-25,20251125.zip,vrp_filter,1.377839 > 1.000000
